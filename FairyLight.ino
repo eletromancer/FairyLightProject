@@ -1,5 +1,5 @@
-const int  pinSeven = 7;
-const int  pinSix = 6;
+const int pinSeven = 7;
+const int pinSix = 6;
 const int pinFive = 5;
 
 void setup() {
